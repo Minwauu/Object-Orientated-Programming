@@ -29,5 +29,8 @@ Inheritance allows a class to be derived from an existing class without the need
 
 Giving an action one name, e.g MakeNoise, that is shared up and down an object hierarchy implementing the action in a way appropriate to itself.
 
+
+
+
 ![image](https://user-images.githubusercontent.com/110039102/200532575-6b7e331e-274c-46cb-8373-4d71e55ee600.png)
 
